@@ -4,5 +4,8 @@ the commented-out code could be used to create REST API which could be accessibl
 
 the actual scraper took 30 minutes but trying to deploy the project took 5 hours and my joy out of ever doing a hackathon again
 
-cheers to samuel lu for giving me his yrdsb credentials for me to verify the functionality of it
+cheers to samuel lu for giving me his yrdsb credentials for me to verify the functionality of it 
+
 cheers to samuel lu again for reminding me not to post my discord token on a public repository
+
+cheers to samuel lu once more for noticing that i forgot to delete the branch that had my discord token on it and subsequently reminded me to reset my token
