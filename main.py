@@ -11,6 +11,7 @@ import time
 from selenium.webdriver.chrome.options import Options
 import discord
 from discord.ext import commands
+import os
 # Debugging
 # app = Flask(__name__) 
 
@@ -137,5 +138,5 @@ async def on_ready():
     except Exception as e:
         print(e)
 
-token = "MTA0MjU4OTU2NTcxOTk0OTM4Mg.GwDnjE.1O0G3KVMQ2Hnuqptqd1LkakhU3noocpLgCN18I"
-bot.run(token)
+token = os.environ
+bot.run(token["KEY"])
